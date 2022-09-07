@@ -1,4 +1,4 @@
-package io.mosip.kernel.smsserviceprovider.msg91.test;
+package io.mosip.kernel.smsserviceprovider.fast2sms.test;
 
 import static org.mockito.Mockito.when;
 
